@@ -1,4 +1,4 @@
-# vue_getting_started
+# risk-assessment-project
 
 ## Project setup
 ```
