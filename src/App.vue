@@ -1,18 +1,17 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <RiskAssessment/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import RiskAssessment from './components/risk-management/risk-assessment.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
-  }
+    RiskAssessment
+}
 }
 </script>
 
